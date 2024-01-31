@@ -4,7 +4,7 @@
 
 
 ### Week 1:
-- *System Administration*
+- **System Administration**
 - **1.1. Secure Shell**
 - **1.2. Installing Vagrant and Debian**
 - **1.3. Debian system administration**
