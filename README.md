@@ -4,12 +4,12 @@
 
 
 ### Week 1:
-- **System Administration**
+*System Administration*
 - **1.1. Secure Shell**
 - **1.2. Installing Vagrant and Debian**
 - **1.3. Debian system administration**
 
-- *The POSIX Shell*
+*The POSIX Shell*
 - **2.1. Shell expansion**
 - **2.2. Pipes**
 - **2.3. Regular expressions**
